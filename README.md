@@ -1,4 +1,4 @@
-## Hi there 👋, I'm a Djanglo developer
+## Hi there 👋 I'm a Djanglo developer
 
 <a href="https://vk.com/ivbuchin">
   <img align="left" alt="vkontakte" width="22px" src="https://github.com/KholodilovSh/1428447-technomart-28/blob/master/img/vkontakte.svg" />
@@ -18,7 +18,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![PostgreSQL](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery)
@@ -26,6 +26,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
