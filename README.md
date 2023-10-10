@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Djanglo developer
+## Hi there 👋 I'm a Fullstack developer
 
 <a href="https://vk.com/ivbuchin">
   <img align="left" alt="vkontakte" width="22px" src="https://github.com/KholodilovSh/1428447-technomart-28/blob/master/img/vkontakte.svg" />
