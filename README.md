@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm a Fullstack developer
 
-<a href="https://vkontakte.com/ivbuchin">
-  <img align="left" alt="LinkedIN" width="22px" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+<a href="https://vk.com/ivbuchin">
+  <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
 <a href="https://t.me/@ivbuchin">
-  <img align="left" alt="LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)" />
+  <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 
