@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </a>
 
-<a href="https://t.me/@ivbuchin">
+<a href="https://t.me/ivbuchin">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
