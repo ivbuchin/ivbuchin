@@ -5,7 +5,7 @@
 
 </br>
 
-## Technology stack
+## Technology stackш
 
 <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
